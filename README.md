@@ -1,8 +1,8 @@
-# Solarized Dark, Simple
+# Solarized Dark Vim
 
-Tries to be accurate to the vim version of Solarized Dark.
+Tries to be accurate to the vim version of Solarized Dark. Themes editor and UI.
 
-Modified from the stock Solarized Dark theme. Currently optimized for the following languages:
+Currently optimized for the following languages:
 
 - C/C++
 - JavaScript/React
