@@ -3,6 +3,11 @@
   "displayName": "Solarized Dark Vim",
   "description": "A minimal Solarized Dark theme designed to look exactly like it does in vim.",
   "version": "0.1.0",
+  "publisher": "hkmix",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hkmix/vscode-solarized-dark-vim"
+  },
   "engines": {
     "vscode": "^1.42.0"
   },
