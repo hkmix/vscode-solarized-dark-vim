@@ -1,5 +1,9 @@
 # Changelog
 
+## [0.1.2]
+
+- Add screenshot.
+
 ## [0.1.1]
 
 - Theme the UI more extensively and flatten overall look.

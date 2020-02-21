@@ -1,5 +1,7 @@
 # Solarized Dark Vim
 
+![Screenshot](images/screenshot.png)
+
 Tries to be accurate to the vim version of Solarized Dark. Themes editor and UI.
 
 Currently optimized for the following languages:
