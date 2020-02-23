@@ -1,5 +1,9 @@
 # Changelog
 
+## [0.1.4]
+
+- Tweak highlighting for operator keywords.
+
 ## [0.1.3]
 
 - Add logo.
