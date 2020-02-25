@@ -13,3 +13,5 @@ Currently optimized for the following languages:
 - Shell script
 
 Contains minimal additional highlighting. The theme uses no italics, bold, etc. for code.
+
+Feel free to open an issue if you would like to see something changed!
