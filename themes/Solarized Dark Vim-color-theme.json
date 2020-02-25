@@ -137,7 +137,7 @@
     "statusBar.background": "#002b36",
     "statusBar.border": "#073642",
     "statusBar.debuggingBackground": "#cb4b16",
-    "statusBar.debuggingForeground": "#002b36",
+    "statusBar.debuggingForeground": "#eee8d5",
     "statusBar.foreground": "#93a1a1",
     "statusBar.noFolderBackground": "#002b36",
     "statusBarItem.remoteBackground": "#2aa19899",
@@ -191,15 +191,19 @@
     {
       "scope": [
         "variable",
-        "support.type.property-name",
-        "storage.modifier.reference"
+        "meta.embedded.line",
+        "storage.modifier.reference",
+        "support.type.property-name"
       ],
       "settings": {
         "foreground": "#839496"
       }
     },
     {
-      "scope": ["invalid", "invalid.illegal"],
+      "scope": [
+        "invalid",
+        "invalid.illegal"
+      ],
       "settings": {
         "foreground": "#dc322f"
       }
@@ -266,6 +270,7 @@
         "support.class",
         "meta.use.php",
         "punctuation.definition.list.begin.markdown",
+        "punctuation.definition.template-expression",
         "support.function.builtin",
         "support.type.sys-types",
         "support.variable.property",
@@ -287,9 +292,9 @@
         "variable.other.positional",
         "variable.other.special",
         "punctuation.definition.variable",
-        "string.regexp.quoted.single",
         "punctuation.definition.directive",
-        "punctuation.separator.continuation"
+        "punctuation.separator.continuation",
+        "string.regexp.quoted.single"
       ],
       "settings": {
         "foreground": "#cb4b16"

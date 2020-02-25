@@ -1,5 +1,9 @@
 # Changelog
 
+## [0.1.5]
+
+- Fix templated string, debug bar text colours.
+
 ## [0.1.4]
 
 - Tweak highlighting for operator keywords.
