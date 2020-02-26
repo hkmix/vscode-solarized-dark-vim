@@ -177,12 +177,12 @@
     {
       "scope": [
         "comment",
-        "punctuation.definition.markdown",
-        "punctuation.definition.comment",
-        "punctuation.definition.raw",
         "fenced_code.block.language",
         "markup.inline.raw",
-        "markup.raw"
+        "markup.raw",
+        "punctuation.definition.comment",
+        "punctuation.definition.markdown",
+        "punctuation.definition.raw"
       ],
       "settings": {
         "foreground": "#586e75"
@@ -190,31 +190,28 @@
     },
     {
       "scope": [
-        "variable",
         "meta.embedded.line",
         "storage.modifier.reference",
-        "support.type.property-name"
+        "support.type.property-name",
+        "variable"
       ],
       "settings": {
         "foreground": "#839496"
       }
     },
     {
-      "scope": [
-        "invalid",
-        "invalid.illegal"
-      ],
+      "scope": ["invalid", "invalid.illegal"],
       "settings": {
         "foreground": "#dc322f"
       }
     },
     {
       "scope": [
-        "storage.type",
-        "storage.modifier",
-        "support.type.primitive",
         "markup.heading",
-        "punctuation.definition.heading"
+        "punctuation.definition.heading",
+        "storage.modifier",
+        "storage.type",
+        "support.type.primitive"
       ],
       "settings": {
         "foreground": "#b58900"
@@ -222,6 +219,7 @@
     },
     {
       "scope": [
+        "entity.name.tag",
         "keyword",
         "keyword.control",
         "keyword.operator.delete",
@@ -230,10 +228,9 @@
         "keyword.operator.new",
         "keyword.operator.wordlike",
         "storage.modifier",
-        "storage.type.function",
         "storage.type.class",
-        "variable.language",
-        "entity.name.tag"
+        "storage.type.function",
+        "variable.language"
       ],
       "settings": {
         "foreground": "#859900"
@@ -241,8 +238,8 @@
     },
     {
       "scope": [
-        "punctuation",
         "keyword.operator",
+        "punctuation",
         "storage.type.function.arrow"
       ],
       "settings": {
@@ -251,14 +248,14 @@
     },
     {
       "scope": [
-        "string",
-        "constant.numeric",
-        "constant.language",
-        "support.constant",
         "constant.character",
         "constant.escape",
+        "constant.language",
+        "constant.numeric",
         "punctuation.definition.string",
-        "punctuation.quoted.docstring"
+        "punctuation.quoted.docstring",
+        "string",
+        "support.constant"
       ],
       "settings": {
         "foreground": "#2aa198"
@@ -266,12 +263,11 @@
     },
     {
       "scope": [
-        "support.type",
-        "support.class",
-        "meta.use.php",
         "punctuation.definition.list.begin.markdown",
         "punctuation.definition.template-expression",
+        "support.class",
         "support.function.builtin",
+        "support.type",
         "support.type.sys-types",
         "support.variable.property",
         "variable.language.special",
@@ -283,18 +279,20 @@
     },
     {
       "scope": [
+        "constant.character.entity",
         "constant.character.escape",
-        "meta.preprocessor",
         "keyword.control.directive",
+        "meta.preprocessor",
+        "punctuation.definition.directive",
+        "punctuation.definition.entity",
+        "punctuation.definition.variable",
+        "punctuation.separator.continuation",
         "storage.type.string",
+        "string.regexp.quoted.single",
         "variable.other.bracket",
         "variable.other.normal",
         "variable.other.positional",
-        "variable.other.special",
-        "punctuation.definition.variable",
-        "punctuation.definition.directive",
-        "punctuation.separator.continuation",
-        "string.regexp.quoted.single"
+        "variable.other.special"
       ],
       "settings": {
         "foreground": "#cb4b16"
