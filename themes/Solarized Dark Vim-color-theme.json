@@ -224,6 +224,7 @@
         "keyword.control",
         "keyword.operator.delete",
         "keyword.operator.expansion",
+        "keyword.operator.expression",
         "keyword.operator.logical.python",
         "keyword.operator.new",
         "keyword.operator.wordlike",
