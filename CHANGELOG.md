@@ -4,6 +4,7 @@
 
 Initial development, expect small developmental fixes with fast turnaround times.
 
+- [0.1.8] Fix class highlighting (revert to no special highlighting).
 - [0.1.7] Fix keyword expression operators, e.g. `delete` operator in JavaScript.
 - [0.1.6] Fix escaped entities, e.g. `&amp;`.
 - [0.1.5] Fix templated string, debug bar text colours.

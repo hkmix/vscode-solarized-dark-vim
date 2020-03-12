@@ -266,7 +266,6 @@
       "scope": [
         "punctuation.definition.list.begin.markdown",
         "punctuation.definition.template-expression",
-        "support.class",
         "support.function.builtin",
         "support.type",
         "support.type.sys-types",
