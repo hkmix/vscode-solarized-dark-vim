@@ -1,8 +1,8 @@
 {
   "name": "solarized-dark-vim",
   "displayName": "Solarized Dark Vim",
-  "description": "A minimal Solarized Dark theme designed to look exactly like it does in vim.",
-  "version": "0.1.8",
+  "description": "A more accurate, minimal Solarized Dark theme designed to look like it does in vim.",
+  "version": "0.2.0",
   "publisher": "hkmix",
   "repository": {
     "type": "git",

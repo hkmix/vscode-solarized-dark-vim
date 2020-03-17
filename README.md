@@ -2,15 +2,20 @@
 
 ![Screenshot](images/screenshot.png)
 
-Tries to be accurate to the vim version of Solarized Dark. Themes editor and UI.
+Stays true to the vim "feel" of Solarized Dark, using similar colours where possible. Tweaks are made to preserve accuracy across languages and to reduce the number of special colours used.
 
-Currently optimized for the following languages:
+Themes editor and UI. Currently optimized for the following languages:
 
 - C/C++
-- JavaScript/React
+- JavaScript/TypeScript/React
 - Markdown
 - Python
 - Shell script
+
+The following languages are also supported, but with fewer optimizations:
+
+- LaTeX/TeX
+- Java
 
 Contains minimal additional highlighting. The theme uses no italics, bold, etc. for code.
 

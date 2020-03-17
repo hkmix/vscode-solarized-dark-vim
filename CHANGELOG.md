@@ -1,5 +1,23 @@
 # Changelog
 
+## [0.2] series
+
+The 0.2 series of patches somewhat changes the focus and direction of this theme. Instead of trying to be as accurate to the vim version as possible, the focus is to reduce the number of colours used while maintaining consistency across languages.
+
+Example of differences between Solarized Dark Vim (**SDV**) and Solarized Dark (**V**) in Vim:
+
+- In SDV, Python functions are left in the regular colour, while in V they are coloured blue.
+- In SDV, C++ visibility keywords are yellow and regular keywords green, where they are flipped in V.
+
+- [0.2.0] Fix various issues with syntax highlighting in Python and JavaScript/TypeScript.
+  - Added support for additional languages:
+    - LaTeX/TeX
+    - Java
+  - Certain types were highlighted as blue in TypeScript React files. The colour has been removed.
+  - Decorators were unhighlighted. Now they are highlighted orange. In V they are blue, but this does not stand out against other blue words like `self`.
+  - Tweaked highlighting of `self`, `this`-type variables. The colour has been removed.
+  - Fixed C++ macro syntax highlighting.
+
 ## [0.1] series
 
 Initial development, expect small developmental fixes with fast turnaround times.
@@ -14,7 +32,7 @@ Initial development, expect small developmental fixes with fast turnaround times
 - [0.1.1] Theme the UI more extensively and flatten overall look.
 - [0.1.0] Initial release, contains support for:
   - C/C++
-  - JavaScript/React
+  - JavaScript/TypeScript/React
   - Markdown
   - Python
   - Shell script
