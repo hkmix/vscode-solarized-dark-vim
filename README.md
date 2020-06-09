@@ -1,6 +1,7 @@
 # Solarized Dark Vim
 
-![Screenshot](images/screenshot.png)
+![Rust screenshot](images/screenshot_rs.png)
+![C++ Screenshot](images/screenshot_cc.png)
 
 Stays true to the vim "feel" of Solarized Dark, using similar colours where possible. Tweaks are made to preserve accuracy across languages and to reduce the number of special colours used.
 
