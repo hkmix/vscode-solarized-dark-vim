@@ -10,11 +10,15 @@ Themes editor and UI. Currently optimized for the following languages:
 - JavaScript/TypeScript/React
 - Markdown
 - Python
+- Rust
 - Shell script
 
 The following languages are also supported, but with fewer optimizations:
 
+- CMake
+- Go
 - LaTeX/TeX
+- Lua
 - Java
 
 Contains minimal additional highlighting. The theme uses no italics, bold, etc. for code.
