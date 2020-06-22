@@ -308,6 +308,7 @@
         "punctuation.definition.annotation",
         "punctuation.definition.decorator",
         "punctuation.definition.list.begin.markdown",
+        "punctuation.definition.quote.begin",
         "punctuation.definition.template-expression",
         "storage.type.annotation",
         "support.type.builtin",
