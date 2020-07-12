@@ -18,6 +18,7 @@ The following languages are also supported, but with fewer optimizations:
 
 - CMake
 - Go
+- Godot/GDScript
 - LaTeX/TeX
 - Lua
 - Java
