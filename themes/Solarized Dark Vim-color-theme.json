@@ -206,6 +206,7 @@
     },
     {
       "scope": [
+        "keyword.operator.borrow.and.rust",
         "keyword.operator.sigil",
         "keyword.type.cs",
         "markup.heading",
@@ -237,6 +238,7 @@
         "keyword.operator.expression",
         "keyword.operator.logical.python",
         "keyword.operator.new",
+        "keyword.operator.question.rust",
         "keyword.operator.sizeof",
         "keyword.operator.wordlike",
         "keyword.other",

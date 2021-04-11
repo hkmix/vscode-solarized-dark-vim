@@ -9,6 +9,7 @@ Example of differences between Solarized Dark Vim (**SDV**) and Solarized Dark (
 - In SDV, Python functions are left in the regular colour, while in V they are coloured blue.
 - In SDV, C++ visibility keywords are yellow and regular keywords green, where they are flipped in V.
 
+- [0.2.8] Add Rust colouring for the borrow sigil (`&`) and question mark operator (`?`).
 - [0.2.7] Tweak cursor colour to have gentler contrast.
 - [0.2.6] Add support for Godot/GDScript.
 - [0.2.5] Add syntax highlighting for markdown quote blocks.
